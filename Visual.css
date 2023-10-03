@@ -1,0 +1,17 @@
+body{
+    background-color: darkblue;
+}
+.wrapper{
+    width: 100%;
+    max-width: 800px;
+}
+.Header{
+    background-color: aliceblue;
+}
+main{
+    background-color: burlywood;
+}
+.img{
+    display: flex;
+    align-items: center;
+}
